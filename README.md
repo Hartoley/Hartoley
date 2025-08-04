@@ -49,7 +49,7 @@ A customized food delivery and POS app for managing online meal orders, interact
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hartoley&layout=compact&hide=c++)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hartoley&layout=compact&theme=default)
+
 
 ## 🌍 Connect with Me
 
